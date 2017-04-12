@@ -1,0 +1,13 @@
+{
+  "author": {
+    "name": "dharm",
+    "email": "dharmendra17893@gmail.com"
+  },
+  "dependencies": {
+    "mssql": "^4.0.1"
+  },
+  "description": "Library",
+  "main": "app.js",
+  "name": "library",
+  "version": "0.0.0"
+}
